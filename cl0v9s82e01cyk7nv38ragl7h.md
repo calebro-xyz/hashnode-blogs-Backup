@@ -64,7 +64,7 @@ Some of the most popular stablecoins are:
 
 The Acala network is a decentralized finance network and liquidity protocol for the Polkadot network.
 
-It's a scalable, Ethereum-based, and DeFi-optimized Layer-1 smart contract platform with built-in liquidity and ready-to-use financial decentralized apps (DApps).
+It's a scalable, Ethereum-based, and DeFi-optimized Layer-1 [smart contract](https://web3.hashnode.com/glossary/what-are-smart-contracts) platform with built-in liquidity and ready-to-use financial decentralized apps (DApps).
 
 The reason why this project made into our web3 crypto list is because this project gives developers and users access to the best Ethereum network and the full power of Substrate with its trustless exchange platform, stablecoin (aUSD), DOT Liquid Staking (LDOT), and EVM+.
 
